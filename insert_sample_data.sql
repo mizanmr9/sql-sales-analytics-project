@@ -1,1 +1,2 @@
-
+-- Load sample transactional data into raw source tables
+-- The dataset includes a duplicate customer row and a missing email to simulate real-world data issues.
