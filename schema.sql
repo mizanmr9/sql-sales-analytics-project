@@ -1,1 +1,2 @@
-
+-- SQL Sales Analytics & Reporting System
+-- This script creates raw source tables and reporting-ready dimension/fact tables.
