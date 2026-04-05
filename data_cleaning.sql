@@ -1,1 +1,2 @@
-
+-- Transform raw source data into clean dimension and fact tables
+-- Apply standardization, deduplication, and basic filtering rules
