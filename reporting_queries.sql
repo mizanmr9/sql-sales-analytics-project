@@ -1,1 +1,2 @@
-
+-- KPI and business reporting queries
+-- Includes revenue trends, category performance, customer analysis, and growth metrics
